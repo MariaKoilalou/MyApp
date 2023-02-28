@@ -1,4 +1,4 @@
-# test
+# Student Abroad
 
 A new Flutter project for the course of Human-Computer Interaction 2022-2023 NTUA.
 
@@ -14,6 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## app debug-apk
+
+Λόγω του μεγέθους του αρχείου βάλαμε το app debug-apk σε ένα drive που μπορείτε να βρείτε στο link: https://drive.google.com/file/d/1g7NnSRzIL8sRjx9K64O_x1_hqTxlew_M/view?usp=sharing
 
 ## local.properties
 
